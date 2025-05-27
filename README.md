@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ignacio-villarejo-tugesto
 - 👀 I’m interested in learning anything about web development (Laravel, PHP, JavaScript)
 - 🌱 I’m currently learning about AI and agents
-- 📫 How to reach me ignacio.villarejo@tugesto.com
+- 📫 How to reach me ignacio.villarejo@visma.com
 - ⚡ Fun fact: I love Betis
 
 <!---
